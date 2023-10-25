@@ -33,5 +33,6 @@ if(foto==undefined)     foto  =pelicula.profile_path
         </div>
   </div>
   )
-}
+} 
+
 export default Card
